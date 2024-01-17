@@ -1,2 +1,2 @@
 # Responsive-sidebar
-responsive sidebar js
+responsive sidebar 
